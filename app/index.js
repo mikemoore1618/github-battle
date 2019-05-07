@@ -1,6 +1,6 @@
 const React = require('react')
 const ReactDOM = requite('react-dom')
-require('index.css')
+require('./index.css')
 
 //What a component has/can have:
     //state
